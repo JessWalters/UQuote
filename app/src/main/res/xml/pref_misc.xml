@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference
+        android:key="bugReport"
+        android:title="Report a bug"
+        android:summary="or if you have a suggestion/comment"
+        />
+
+    <Preference
+        android:key="shareApp"
+        android:title="Share this app!"
+        android:summary="Share this app to help us take over the world!!!"/>
+
+</PreferenceScreen>

@@ -1,0 +1,66 @@
+<resources>
+
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_separatedfaves">Separated Favorites</string>
+
+
+
+
+    <string name="pref_title_typequotes">What type of quotes do you want?</string>
+    <string-array name="pref_quotetype">
+        <item>All Quotes</item>
+        <item>Sports Quotes</item>
+        <item>Inspiring Quotes</item>
+        <item>Proverbs</item>
+        <item>Historical/Famous Quotes</item>
+        <item>Movie Quotes</item>
+        <item>Military Quotes</item>
+    </string-array>
+    <string-array name="pref_type_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_notifyfreq">When do you want them?</string>
+    <string-array name="pref_notify_frequency_titles">
+        <item>When you wake up</item>
+        <item>In the morning</item>
+        <item>Midday</item>
+        <item>In the afternoon</item>
+        <item>In the evening</item>
+        <item>At night</item>
+    </string-array>
+    <string-array name="pref_notify_frequency_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_enablenotify">Would you like daily quotes sent to you?</string>
+
+
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+</resources>
